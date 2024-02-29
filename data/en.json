@@ -1,0 +1,30 @@
+[
+  {
+    "title": "New Symfony 6.2 Released with a Focus on Performance and Security",
+    "date": "2023-11-14",
+    "author": "Symfony Team",
+    "content": "Symfony 6.2 has been released with a focus on performance and security. Key features include ...",
+    "link": "https://symfony.com/blog/new-symfony-6-2-released"
+  },
+  {
+    "title": "Next.js 13: New Features for Optimization and Developer Experience",
+    "date": "2023-10-25",
+    "author": "Next.js Team",
+    "content": "Next.js 13 is here with several new features for optimization and developer experience. Highlights include ...",
+    "link": "https://nextjs.org/blog/next-13"
+  },
+  {
+    "title": "Creating RESTful APIs with Symfony and LexikJWTAuthenticationBundle",
+    "date": "2023-09-05",
+    "author": "Jo�o Silva",
+    "content": "In this tutorial, we will show you how to create RESTful APIs with Symfony and the LexikJWTAuthenticationBundle. We will cover the following topics ...",
+    "link": "https://www.joaosilva.com/blog/creating-apis-restful-with-symfony-and-lexikjwtauthenticationbundle"
+  },
+  {
+    "title": "Deploying a Next.js application on Vercel",
+    "date": "2023-08-18",
+    "author": "Maria Oliveira",
+    "content": "In this article, we will show you how to deploy a Next.js application on Vercel. We will see how to configure the project ...",
+    "link": "https://www.mariaoliveira.com/blog/deploying-a-next-js-application-on-vercel"
+  }
+]
