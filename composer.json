@@ -54,6 +54,7 @@
         "symfony/web-profiler-bundle": "5.4.*"
     },
     "config": {
+        "platform-check": false,
         "allow-plugins": {
             "composer/package-versions-deprecated": true,
             "symfony/flex": true,
